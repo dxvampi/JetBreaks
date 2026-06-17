@@ -11,7 +11,7 @@ import (
 // Remote URLs for the transparent FOSS assets
 // (Once you create your GitHub repo, replace these with your actual RAW URLs)
 const (
-	baseURL  = "https://raw.githubusercontent.com/your-username/jetbreaks/main/assets/"
+	baseURL  = "https://github.com/dxvampi/JetBreaks/tree/master/assets/"
 	agentURL = baseURL + "ja-netfilter.jar"
 )
 
